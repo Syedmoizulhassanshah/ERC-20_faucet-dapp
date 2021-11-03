@@ -13,3 +13,6 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+# Link of the website on Netlify to get the Live ERC-20 Faucets
+
+https://61827ec3230a81cf4d120a27--angry-minsky-a8d015.netlify.app/
